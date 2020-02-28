@@ -4,4 +4,4 @@
 
 Büyük Veri Zirvesi 2020 Finansta Makine Öğrenmesi Çalışması
 
-Tarayıcınızda etkileşimli çalıştırmak için [bu bağlantıya tıklayın (http://beta.mybinder.org/v2/gh/yemregundogmus/buyuk_veri_zirvesi_exercise/master)
+Notebook'a ulaşmak için [bu bağlantıya tıklayın ](http://beta.mybinder.org/v2/gh/yemregundogmus/buyuk_veri_zirvesi_exercise/master)

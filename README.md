@@ -1,0 +1,1 @@
+# buyuk_veri_zirvesi_exercise
